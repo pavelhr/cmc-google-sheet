@@ -9,7 +9,7 @@ How to set-up:
 ![Script Editor](tools.png)
 
 4. Insert the code from cmc.gs file.
-5. Change the line: `'X-CMC_PRO_API_KEY': 'INSERT-YOUR-API-KEY-HERE'`
+5. Change the line: `'X-CMC_PRO_API_KEY': 'INSERT-YOUR-FREE-API-KEY-HERE'`
 6. Select `getCoinData` function and test run.
 
 ![getCoinData function](getcoindata.png)
