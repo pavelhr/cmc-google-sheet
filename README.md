@@ -1,4 +1,4 @@
-# cmc-google-sheet
+# CoinMarketCap to Google Sheet
 Script for loading data from https://coinmarketcap.com to google sheet.
 
 How to set-up:
