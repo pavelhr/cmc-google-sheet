@@ -1,5 +1,5 @@
 # cmc-google-sheet
-Script for loading data from coinmarketcap.com to google sheet.
+Script for loading data from https://coinmarketcap.com to google sheet.
 
 How to set-up:
 1. Create new Google sheet file.
@@ -9,7 +9,7 @@ How to set-up:
 ![Script Editor](tools.png)
 
 4. Insert the code from cmc.gs file.
-5. Change the line: `'X-CMC_PRO_API_KEY': 'INSERT-YOUR-FREE-API-KEY-HERE'`
+5. Change the line: `'X-CMC_PRO_API_KEY': 'INSERT-YOUR-FREE-API-KEY-HERE'` (get free API key here: https://coinmarketcap.com/api )
 6. Select `getCoinData` function and test run.
 
 ![getCoinData function](getcoindata.png)
