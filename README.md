@@ -3,8 +3,8 @@ Script for loading data from coinmarketcap.com to google sheet.
 
 How to set-up:
 1. Create new Google sheet file.
-2. Rename the sheet for data to cryptodata.
-3. Run Tools - Script Editor...
+2. Rename the sheet for data to *cryptodata*.
+3. Run Tools - Script editor...
 
 ![Script Editor](tools.png)
 
@@ -14,4 +14,6 @@ How to set-up:
 
 ![getCoinData function](getcoindata.png)
 
-7. Simply use within your sheet by creating button with script.
+7. Check your *cryptodata* sheet.
+
+Use within your sheet by creating button with script.
