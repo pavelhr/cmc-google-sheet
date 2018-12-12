@@ -5,9 +5,13 @@ How to set-up:
 1. Create new Google sheet file.
 2. Rename the sheet for data to cryptodata.
 3. Run Tools - Script Editor...
+
 ![Script Editor](tools.png)
+
 4. Insert the code from cmc.gs file.
 5. Change the line: `'X-CMC_PRO_API_KEY': 'INSERT-YOUR-API-KEY-HERE'`
 6. Select `getCoinData` function and test run.
+
 ![getCoinData function](getcoindata.png)
+
 7. Simply use within your sheet by creating button with script.
