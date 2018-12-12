@@ -18,4 +18,4 @@ How to set-up:
 
 Use within your sheet by creating button with script.
 
-*Based on script from https://qiita.com/t_inoue0204/items/30cf5bbc0cd74208409c *
+Based on script from https://qiita.com/t_inoue0204/items/30cf5bbc0cd74208409c
